@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/Python-Analytics-blue)
+![Power BI](https://img.shields.io/badge/PowerBI-Dashboard-yellow)
+![Machine Learning](https://img.shields.io/badge/ML-XGBoost-green)
+
+
 # Predictive Maintenance Analytics for Turbofan Engine Fleet
 
 ## Project Overview
@@ -81,3 +86,18 @@ The dashboard was built to convert technical model outputs into operational deci
 - Sensor telemetry provides measurable indicators of degradation trends.
 - Maintenance teams can prioritize inspections based on predicted RUL instead of fixed schedules.
 - Combining ML with BI tools creates executive-ready decision systems.
+
+## Future Improvements
+- Compare multiple machine learning models
+- Hyperparameter tuning
+- Real-time streaming telemetry integration
+- Classification model for failure within next 30 cycles
+- Expanded dashboard automation
+
+# About Me
+I am a Data Analyst candidate with a Master’s degree in Data Science & Analytics and prior U.S. Air Force aerospace propulsion experience. My background combines operational decision-making, maintenance systems knowledge, and modern analytics tools. I also hold certificates in AWS Certified Machine Learning and SQL. 
+
+## Contact
+Linkedin: www.linkedin.com/in/honna-hippen
+
+Email: honnahippen@gmail.com
